@@ -1,0 +1,3 @@
+<launch>
+	<node name="VIDEO" pkg="WindowLane" type="Deteccion.py" output="screen"> </node>
+</launch>
